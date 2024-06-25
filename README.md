@@ -1,4 +1,4 @@
-## git-branching
+## git-branching excercise
 
 1. Make a new folder called `Git-branching`
 2. Make a new git repo inside the folder (make sure you're not in an existing repo). Use `git clone` command and clone [`git@github.com](mailto:git@github.com):WemaDev/git-branching-test.git` in the directory.
